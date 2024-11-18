@@ -1,0 +1,3 @@
+C:/Qt/Examples/Qt-6.7.2/widgets/widgets/analogclock/build/Desktop-Release/CMakeFiles/CMakeScratch/TryCompile-oj4uvu/CMakeFiles/cmTC_bd993.dir
+C:/Qt/Examples/Qt-6.7.2/widgets/widgets/analogclock/build/Desktop-Release/CMakeFiles/CMakeScratch/TryCompile-oj4uvu/CMakeFiles/edit_cache.dir
+C:/Qt/Examples/Qt-6.7.2/widgets/widgets/analogclock/build/Desktop-Release/CMakeFiles/CMakeScratch/TryCompile-oj4uvu/CMakeFiles/rebuild_cache.dir

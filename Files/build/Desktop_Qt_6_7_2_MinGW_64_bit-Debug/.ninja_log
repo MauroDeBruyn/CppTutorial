@@ -1,0 +1,9 @@
+# ninja log v6
+9	617	7536668286486585	analogclock_autogen/timestamp	c7bd6b5fd58ab385
+9	617	7536668286486585	analogclock_autogen/mocs_compilation.cpp	c7bd6b5fd58ab385
+9	617	7536668286486585	C:/Qt/Examples/Qt-6.7.2/widgets/widgets/analogclock/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/analogclock_autogen/timestamp	c7bd6b5fd58ab385
+9	617	7536668286486585	C:/Qt/Examples/Qt-6.7.2/widgets/widgets/analogclock/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/analogclock_autogen/mocs_compilation.cpp	c7bd6b5fd58ab385
+622	2846	7536668287078401	CMakeFiles/analogclock.dir/analogclock_autogen/mocs_compilation.cpp.obj	e96d0ea930f188b5
+624	2931	7536668287097872	CMakeFiles/analogclock.dir/main.cpp.obj	27a6d6d8c821962c
+623	3041	7536668287088170	CMakeFiles/analogclock.dir/analogclock.cpp.obj	73c809c28d003245
+3041	3234	7536668311266273	analogclock.exe	e70795bf1b658341
